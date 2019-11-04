@@ -1,0 +1,4 @@
+[ 33%] Building CXX object CMakeFiles/2D_feature_tracking.dir/src/matching2D_Student.cpp.o
+CMakeFiles/2D_feature_tracking.dir/build.make:62: recipe for target 'CMakeFiles/2D_feature_tracking.dir/src/matching2D_Student.cpp.o' failed
+CMakeFiles/Makefile2:72: recipe for target 'CMakeFiles/2D_feature_tracking.dir/all' failed
+Makefile:83: recipe for target 'all' failed
